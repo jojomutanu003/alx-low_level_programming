@@ -2,7 +2,7 @@
 
 /*
  *main - Entry point
- *print word to output
+ *Description : print word to output
  *Return: Always 0 (Success)
 */
 
