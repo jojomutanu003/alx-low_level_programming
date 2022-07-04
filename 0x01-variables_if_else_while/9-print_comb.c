@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main-Prints a serie of numbers with commas
- *Return:Always (Success);
+ *Return:Always (Success)
 */
 int main(void)
 {
@@ -11,7 +11,8 @@ int main(void)
 	{
 	putchar(c);
 	if (c != '9')
-	{	
+
+	{
 	putchar(',');
 	putchar(' ');
 	}
