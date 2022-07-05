@@ -13,7 +13,7 @@ int main(void)
 	_putchar('h');
 	_putchar('e');
 	_putchar('r');
-	_putchar('\n');}
+	_putchar('\n');
 
 	return (0);
 }
