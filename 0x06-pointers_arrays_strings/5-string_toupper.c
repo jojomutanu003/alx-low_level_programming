@@ -18,6 +18,5 @@ char *string_toupper(char *p)
 	}
 	a++;
 	}
-	
 	return (p);
 }
