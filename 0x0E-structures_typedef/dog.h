@@ -1,5 +1,7 @@
 #ifndef _HEADER_
 #define _HEADER_
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  *struct dog - Dog attributes
